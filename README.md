@@ -4,7 +4,9 @@
 
 <a name="intro"></a> 
 # HANDSHAKE - Hand Holder / "Hold"?
-Handshake is a haptic hand comforter, a device that simulates holding hands or a handshake. User puts on a padded haptic tape that he or she can control via app. User can also tap on the device itself to adjust strength, heat, pulses and duration. Initiated haptic tape will heat up to a specific degree and hold the temperature with slight oscillations, it will smoothly start holding your hand delicately tightening its grip on it.
+Handshake is a haptic hand comforter, a device that simulates holding hands or a handshake. User puts on a padded haptic tape that he or she can control via app. User can also tap on the device itself to adjust strength, heat, pulses and duration. 
+
+Initiated haptic tape will heat up to a specific degree and hold the temperature with slight oscillations, it will smoothly start holding your hand delicately tightening its grip on it.
 
 ![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
 
