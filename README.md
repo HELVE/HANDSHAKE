@@ -8,10 +8,6 @@ Handshake is a haptic hand comforter, a device that simulates holding hands or a
 
 Initiated haptic tape will heat up to a specific degree and hold the temperature with slight oscillations, it will smoothly start holding your hand delicately tightening its grip on it.
 
-![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
-
-![GALLERY TRIPLE](/assets/readme_visuals/vaco-triple-gallery.png)
-
 Fill the template structure with your own meaning, don't hesitate to make it yours. Modify the sections, omit or add elements as you please if a need arises. This template is supposed to work for you as fluid outline not as a rigid box - you know what you works best for a certain project, adjust accordingly.
 
 <a name="features"></a>
