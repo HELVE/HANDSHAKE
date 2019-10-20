@@ -21,7 +21,6 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 
 ### Features
 
-
 <a name="install"></a>
 ### Installation and Usage Guide [UPDATED]
 Vacō has an instantenous setup process being a GitHub template repo. Click "Use This Template" at the top of the repo to begin.  After cloning just delete this introduction and you're good to go. 
