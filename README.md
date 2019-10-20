@@ -20,24 +20,12 @@ Fill the template structure with your own meaning, don't hesitate to make it you
 6. [Credits.](#credits)
 
 ### Features
++
 
 <a name="install"></a>
 ### Installation and Usage Guide [UPDATED]
-Vacō has an instantenous setup process being a GitHub template repo. Click "Use This Template" at the top of the repo to begin.  After cloning just delete this introduction and you're good to go. 
+x
 
-Alternatively you can use GitHub Desktop: 
-```
-1. Fork this repo or clone it via GitHub Desktop.
-2. Change the name of the repo to your project's name.
-2. Pull it and delete README.md and readme_visuals.
-3. Fill in TEMPLATE.md with your data, rename it README.md. 
-4. Use .afdesign/.psd gallery templates for custom images (banner, dual, triple, quad).
-5. Export your custom image files to template_visuals folder.
-6. Rename template_visuals folder to readme_visuals.
-7. Change asset_category folders to appropriate types for your project (ex. audio, visual, research).
-8. Replace placeholder.png files with your assets (if none present leave the original files).
-9. Subdivide the folder structure if necessary.
-```
 <a name="contribute"></a>
 ### Contributing
 You are welcome to create issues and pull requests. Please either give general pitches or explain thoroughly what you would like to add if you have a specific vision. I will gladly brainstorm ideas with you.
